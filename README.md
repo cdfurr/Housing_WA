@@ -50,15 +50,15 @@ The final showed:
 
 With the final model we were able to graph the significance of a neighborhoods average sale price.
 
-![](Images/pic%201.png)
+![](Images/pic1.png)
 
 Also, the significance of a neigborhoods average grade on house quality.
 
-![](Images/pic%202.png)
+![](Images/pic2.png)
 
 Finally, the average sqft of the top fifteen neighborhoods.
 
-![](Images/pic%203.png)
+![](Images/pic3.png)
 
 # Conclusion
 Throughout this housing data modeling process, we ran two baseline models with the two highest correlating X variables to the Y variable and two kitchen sink models that showed promise. In the first kitchen sink model we were accounting for living space in two columns and individual zipcodes which skewed the data. In the second kitchen sink model we drop these three columns and got a better depicition of the data. We can see that location, size of the living space, grade and year built or recently renovated has a positive impact on the price of the house. All of these reasons support why this model would be beneficial to our investors and their real estate investment endeavor.
